@@ -1,5 +1,5 @@
 # medhack
-tbd
+
 
 ## Getting started:
 `must have python 3.10+`
@@ -28,7 +28,15 @@ ALL set. Now run the code locally using command
 python manage.py runserver
 ```
 
+Also run the frontend
+```
+npm install react-scripts --save
+npm start
+```
+
 Navigate through urls
 ``/workout`` for streaming
+
+
 
 Happy coding 
